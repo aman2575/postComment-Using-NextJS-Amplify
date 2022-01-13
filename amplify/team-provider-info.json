@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jimi-dev-125146-authRole",
+      "UnauthRoleArn": "arn:aws:iam::418791858139:role/amplify-jimi-dev-125146-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::418791858139:role/amplify-jimi-dev-125146-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-jimi-dev-125146-deployment",
+      "UnauthRoleName": "amplify-jimi-dev-125146-unauthRole",
+      "StackName": "amplify-jimi-dev-125146",
+      "StackId": "arn:aws:cloudformation:ap-south-1:418791858139:stack/amplify-jimi-dev-125146/79d60c50-7441-11ec-ab46-0ac80b9c87b4",
+      "AmplifyAppId": "d3rxq7sdpcbh7j"
+    },
+    "categories": {
+      "auth": {
+        "jimi2523c2e8": {}
+      }
+    }
+  }
+}
